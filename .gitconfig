@@ -1,0 +1,11 @@
+[user]
+	name = Lin
+	email = 2106639605@qq.com
+
+
+[merge]
+	tool = kdiff3
+[mergetool "kdiff3"]
+	path = /usr/bin/kdiff3
+[alias]
+	gits = status
