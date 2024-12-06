@@ -9,3 +9,4 @@
 	path = /usr/bin/kdiff3
 [alias]
 	gits = status
+	graph = log --all --graph --decorate --oneline
